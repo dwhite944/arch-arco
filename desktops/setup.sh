@@ -1,18 +1,18 @@
 #!/bin/bash
 
 # Change Directory
-cd arco-xfce
+#cd arco-xfce
 #cd arco-openbox
 #cd arco-i3
-cd arco-lxqt
+#cd arco-lxqt
 #cd arco-qtile
-cd arco-awesome
+#cd arco-awesome
 #cd arco-bspwm
-cd arco-xmonad
+#cd arco-xmonad
 #cd arco-gnome
-cd arco-deepin
-#cd arco-plasma
-cd arco budgie
+#cd arco-deepin
+cd arco-plasma
+#cd arco budgie
 #cd arco cinnamon
 
 
