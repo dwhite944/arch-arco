@@ -20,29 +20,29 @@ set -e
 
 echo "DESKTOP SPECIFIC APPLICATIONS"
 
-sudo pacman -S --noconfirm --needed kde-applications-meta
+#sudo pacman -S  --needed kde-applications-meta
 
-echo "Installing category Accessories"
+#echo "Installing category Accessories"
 
-echo "Installing category Development"
+#echo "Installing category Development"
 
-echo "Installing category Education"
+#echo "Installing category Education"
 
-echo "Installing category Games"
+#echo "Installing category Games"
 
-echo "Installing category Graphics"
+#echo "Installing category Graphics"
 
-echo "Installing category Internet"
+#echo "Installing category Internet"
 
-echo "Installing category Multimedia"
+#echo "Installing category Multimedia"
 
 sh AUR/install-mpd-ncmpcpp-v*.sh
 
-echo "Installing category Office"
+#echo "Installing category Office"
 
-echo "Installing category Other"
+#echo "Installing category Other"
 
-echo "Installing category System"
+#echo "Installing category System"
 
 sudo pacman -S breeze-gtk --noconfirm --needed
 sudo pacman -S imagemagick --noconfirm --needed

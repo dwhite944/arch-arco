@@ -58,11 +58,11 @@ sudo pacman -S --noconfirm --needed nomacs
 
 echo "Installing category Internet"
 
-sudo pacman -S --noconfirm --needed chromium
+#sudo pacman -S --noconfirm --needed chromium
 #sudo pacman -S --noconfirm --needed filezilla
 sudo pacman -S --noconfirm --needed firefox
 #sudo pacman -S --noconfirm --needed hexchat
-sudo pacman -S --noconfirm --needed qbittorrent
+#sudo pacman -S --noconfirm --needed qbittorrent
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Multimedia"
@@ -71,7 +71,7 @@ echo "Installing category Multimedia"
 #sudo pacman -S --noconfirm --needed deadbeef
 #sudo pacman -S --noconfirm --needed mpv
 #sudo pacman -S --noconfirm --needed openshot
-sudo pacman -S --noconfirm --needed pragha
+#sudo pacman -S --noconfirm --needed pragha
 #sudo pacman -S --noconfirm --needed shotwell
 sudo pacman -S --noconfirm --needed simplescreenrecorder
 #sudo pacman -S --noconfirm --needed smplayer
@@ -83,10 +83,10 @@ echo "Installing category Office"
 sudo pacman -S --noconfirm --needed evince
 #sudo pacman -S --noconfirm --needed evolution
 #sudo pacman -S --noconfirm --needed geary
-#sudo pacman -S --noconfirm --needed libreoffice-fresh
+sudo pacman -S --noconfirm --needed libreoffice-fresh
 #sudo pacman -S --noconfirm --needed
 
-echo "Installing category Other"
+#echo "Installing category Other"
 
 #sudo pacman -S --noconfirm --needed
 
@@ -96,7 +96,7 @@ echo "Installing category System"
 sudo pacman -S --noconfirm --needed accountsservice
 #sudo pacman -S --noconfirm --needed archey3
 sudo pacman -S --noconfirm --needed baobab
-sudo pacman -S --noconfirm --needed bleachbit
+#sudo pacman -S --noconfirm --needed bleachbit
 sudo pacman -S --noconfirm --needed curl
 sudo pacman -S --noconfirm --needed dconf-editor
 sudo pacman -S --noconfirm --needed dmidecode
@@ -133,9 +133,9 @@ sudo pacman -S --noconfirm --needed simple-scan
 sudo pacman -S --noconfirm --needed sysstat
 #sudo pacman -S --noconfirm --needed terminator
 sudo pacman -S --noconfirm --needed termite
-#sudo pacman -S --noconfirm --needed thunar
-#sudo pacman -S --noconfirm --needed thunar-archive-plugin
-#sudo pacman -S --noconfirm --needed thunar-volman
+sudo pacman -S --noconfirm --needed thunar
+sudo pacman -S --noconfirm --needed thunar-archive-plugin
+sudo pacman -S --noconfirm --needed thunar-volman
 sudo pacman -S --noconfirm --needed ttf-ubuntu-font-family
 sudo pacman -S --noconfirm --needed ttf-droid
 sudo pacman -S --noconfirm --needed tumbler

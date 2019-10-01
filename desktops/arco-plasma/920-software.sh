@@ -2,16 +2,16 @@
 
 apps=(
 # file manager
-ranger
-dunst
+#ranger
+#dunst
 thunderbird
 #thunderbird-i18n-de
 #thunderbird-i18n-en-gb
 gotop
 pcmanfm
 keepassxc
-spotrec
-spotify-adkiller-git
+#spotrec
+#spotify-adkiller-git
 #guitar-pro
 google-chrome
 etcher
@@ -21,7 +21,7 @@ hmtimer
 #polybar
 halo-icons-git
 #Libreoffice
-libreoffice-fresh
+#libreoffice-fresh
 #libreoffice-fresh-de
 hunspell
 #hunspell-de
