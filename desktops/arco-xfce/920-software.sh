@@ -2,16 +2,16 @@
 
 apps=(
 # file manager
-ranger
-dunst
+#ranger
+#dunst
 thunderbird
 #thunderbird-i18n-de
 #thunderbird-i18n-en-usa
 gotop
 pcmanfm
 keepassxc
-spotrec
-spotify-adkiller-git
+#spotrec
+#spotify-adkiller-git
 #guitar-pro
 google-chrome
 etcher
