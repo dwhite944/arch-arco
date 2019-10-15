@@ -36,11 +36,11 @@ sudo pacman -S --noconfirm --needed geany
 sudo pacman -S --noconfirm --needed meld
 #sudo pacman -S --noconfirm --needed
 
-echo "Installing category Education"
+#echo "Installing category Education"
 
 #sudo pacman -S --noconfirm --needed
 
-echo "Installing category Games"
+#echo "Installing category Games"
 
 #sudo pacman -S --noconfirm --needed
 
@@ -63,7 +63,7 @@ echo "Installing category Internet"
 sudo pacman -S --noconfirm --needed firefox
 #sudo pacman -S --noconfirm --needed hexchat
 #sudo pacman -S --noconfirm --needed qbittorrent
-#sudo pacman -S --noconfirm --needed
+sudo pacman -S --noconfirm --needed thunderbird
 
 echo "Installing category Multimedia"
 
@@ -73,14 +73,14 @@ echo "Installing category Multimedia"
 #sudo pacman -S --noconfirm --needed openshot
 #sudo pacman -S --noconfirm --needed pragha
 #sudo pacman -S --noconfirm --needed shotwell
-sudo pacman -S --noconfirm --needed simplescreenrecorder
+#sudo pacman -S --noconfirm --needed simplescreenrecorder
 #sudo pacman -S --noconfirm --needed smplayer
 sudo pacman -S --noconfirm --needed vlc
 #sudo pacman -S --noconfirm --needed
 
 echo "Installing category Office"
 
-sudo pacman -S --noconfirm --needed evince
+#sudo pacman -S --noconfirm --needed evince
 #sudo pacman -S --noconfirm --needed evolution
 #sudo pacman -S --noconfirm --needed geary
 sudo pacman -S --noconfirm --needed libreoffice-fresh
@@ -146,7 +146,7 @@ sudo pacman -S --noconfirm --needed unclutter
 sudo pacman -S --noconfirm --needed rxvt-unicode
 sudo pacman -S --noconfirm --needed urxvt-perls
 sudo pacman -S --noconfirm --needed xdg-user-dirs
-#sudo pacman -S --noconfirm --needed
+sudo pacman -S --noconfirm --needed timeshift
 
 
 ###############################################################################################

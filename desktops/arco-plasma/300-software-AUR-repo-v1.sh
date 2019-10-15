@@ -36,10 +36,10 @@ echo "Installing category Development"
 
 sh AUR/install-sublime-text-v*.sh
 
-echo "Installing category Education"
+#echo "Installing category Education"
 
 
-echo "Installing category Games"
+#echo "Installing category Games"
 
 
 echo "Installing category Graphics"
@@ -60,7 +60,7 @@ sh AUR/install-radiotray-v*.sh
 echo "Installing category Office"
 
 
-echo "Installing category Other"
+#echo "Installing category Other"
 
 
 echo "Installing category System"
