@@ -19,7 +19,7 @@ set -e
 # Core, Extra, Community, Multilib repositories
 echo "Installing category Accessories"
 
-sudo pacman -S --noconfirm --needed catfish
+#sudo pacman -S --noconfirm --needed catfish
 sudo pacman -S --noconfirm --needed cmatrix
 #sudo pacman -S --noconfirm --needed galculator
 #sudo pacman -S --noconfirm --needed gnome-screenshot
